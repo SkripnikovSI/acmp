@@ -3,7 +3,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-
 public class P0010 {
     public static void main(String[] args) throws IOException {
         try (BufferedReader br = new BufferedReader(new FileReader("input.txt"));
