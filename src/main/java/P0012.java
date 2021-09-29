@@ -27,7 +27,7 @@ public class P0012 {
                         right = true;
                     }
                 }
-                if (left && !right || !left && right || !left && !right) {
+                if (!left || !right) {
                     answer++;
                 }
             }
