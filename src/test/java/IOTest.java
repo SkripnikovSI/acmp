@@ -2,7 +2,6 @@ import org.junit.Assert;
 
 import java.io.*;
 import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
 
 public class IOTest {
     private PrintWriter pw;
